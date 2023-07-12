@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Hamma",
   "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
   "directories": {
     "lib": "lib"
   },
