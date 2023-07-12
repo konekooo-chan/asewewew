@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Lite Version of KonekoBOT",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "author": "Hamma",
   "license": "ISC",
   "directories": {
